@@ -109,9 +109,9 @@ function banner(){
   \   \/\/   /   |¯¯¯¯| |       |__ |  x     \ |   (\__/|  /     !     | |   x  <|'|  x     \ 
     \_/\_/   '  |____| |______| |_____/  \____\ /___/¯|__'| |__|\__\|_____/ 
 ------------------------------------------------------
-  AUTHOR  : "TGR#0737"
+  AUTHOR  : TGR#0737
   VERSION : 1.1
-  SCRIPT    : CREDIT CARD CHECKER STRIPE CHARGER
+  SCRIPT  : CREDIT CARD CHECKER STRIPE CHARGER
 ------------------------------------------------------
 ";
     return $banner;
