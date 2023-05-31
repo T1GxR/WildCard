@@ -14,5 +14,5 @@ WildCard is a credit card checker that check cc's by charging them a small amoun
     $ pkg install php -y
     $ git clone https://github.com/TGR8/WildCard
     $ cd WildCard
-    $ php cc.php
+    $ php WildCard.php
 
