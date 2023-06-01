@@ -100,7 +100,7 @@ DATE : $date
   UNKNOWN : $u
   ERROR : $e 
 ==========================
-     THANKS FOR USING WILDCARD
+THANKS FOR USING WILDCARD!
 ";
 
 function banner(){
