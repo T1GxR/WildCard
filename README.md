@@ -12,7 +12,7 @@ WildCard is a credit card checker that check cc's by charging them a small amoun
 ## Install on android (Termux)
     $ pkg install git -y
     $ pkg install php -y
-    $ git clone https://github.com/TGR8/WildCard
+    $ git clone https://github.com/T1GxR/WildCard
     $ cd WildCard
     $ php WildCard.php
 
