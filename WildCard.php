@@ -3,9 +3,9 @@
 // DONT CHANGE THIS
 
 /*  ================[INFO]================
- *   AUTHOR  : "TGR#0737"
+ *   AUTHOR  : "T1GXR"
  *   SCRIPT    : CREDIT CARD CHECKER
- *   Telegram : https://t.me/lovingcash
+ *   Links : https://guns.lol/T1GXR
  *   VERSION : 1.1 (CLI) ======================================
  */
 
